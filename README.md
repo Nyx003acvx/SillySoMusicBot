@@ -1,4 +1,8 @@
-git clone (https://github.com/Nyx003acvx/SillySoMusicBot)
+1. Create your app on [Discord Developer Portal](https://discord.com/developers/applications)
+     - setup,
+     - allow intents
+
+ git clone (https://github.com/Nyx003acvx/SillySoMusicBot)
    cd discord-music-bot
    ```
 
