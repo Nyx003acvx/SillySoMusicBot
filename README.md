@@ -1,8 +1,5 @@
-1. Create your app on [Discord Developer Portal](https://discord.com/developers/applications)
-     - setup,
-     - allow intents
 
- git clone (https://github.com/Nyx003acvx/SillySoMusicBot)
+1. git clone (https://github.com/Nyx003acvx/SillySoMusicBot)
    cd discord-music-bot
    ```
 
@@ -45,6 +42,10 @@
 
       # On Windows
       set DISCORD_TOKEN=your_bot_token_here
+
+      #if above does not work
+      $env:DISCORD_TOKEN="your_token_here" 
+
       ```
 
 5. **Run the Bot**
