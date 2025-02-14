@@ -2,7 +2,6 @@
 1.Clone this repository
    ```
    git clone "https://github.com/Nyx003acvx/SillySoMusicBot.git"
-   cd discord-music-bot
    ```
 
 3. **Install Python Dependencies**
