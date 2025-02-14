@@ -4,7 +4,7 @@
    git clone "https://github.com/Nyx003acvx/SillySoMusicBot.git"
    ```
 
-3. **Install Python Dependencies**
+2. **Install Python Dependencies**
    ```bash
    # Using pip
    pip install discord.py yt-dlp PyNaCl
@@ -13,7 +13,7 @@
    poetry add discord.py yt-dlp PyNaCl
    ```
 
-4. **Install FFmpeg**
+3. **Install FFmpeg**
    - On Ubuntu/Debian:
      ```bash
      sudo apt update
@@ -27,7 +27,7 @@
      brew install ffmpeg
      ```
 
-5. **Set up Discord Bot**
+4. **Set up Discord Bot**
    1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
    2. Create a new application
    3. Go to the Bot section and create a bot
@@ -49,7 +49,7 @@
 
       ```
 
-6. **Run the Bot**
+5. **Run the Bot**
    ```bash
    python bot.py
    ```
