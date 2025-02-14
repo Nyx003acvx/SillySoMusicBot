@@ -1,7 +1,7 @@
 
-1.clone this repository
+1.Clone this repository
    ```
-   git clone (https://github.com/Nyx003acvx/SillySoMusicBot)
+   git clone [(https://github.com/Nyx003acvx/SillySoMusicBot)](https://github.com/Nyx003acvx/SillySoMusicBot.git)
    cd discord-music-bot
    ```
 
